@@ -1,0 +1,34 @@
+
+logic gate: a digital circuit that can allow a signal (electric current) to pass or stop
+
+AND GATE(.): ALL input= 1 
+		  THEN output= 1
+		OTHERWISE 0
+		
+OR(+):ALL INPUT=0, 
+		THEN OUTPUT=0
+		OTHERWISE 1.
+
+
+NOT Gate(‘):
+		{INPUT=1 :OUTPUT=0}
+		{INPUT=0:OUTPUT=1}
+		INVERTERS
+
+
+XOR Gate:
+		{agar 1 inputs odd bar h to output 1 
+		otherwise 0}
+		
+		
+NAND Gate:
+		{if all input are 1 then out is 0 
+		outherwise 1}
+		Not AND
+		
+NOR Gate:
+		{if all input are 0 then outputis 1
+		otherwise 0 }
+		Not OR
+		
+		
